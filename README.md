@@ -34,7 +34,7 @@ In section, I create a dataframe and generate the variables using various distri
 
 ## 4. Explore the new dataset- 
 
-I carry some visual and descriptive exploration of the dataset, do a full print of the new dataset and plot and explain some highlighted relationships. 
+I carryout some visual and descriptive exploration of the dataset, do a full print of the new dataset and plot and explain some highlighted relationships. 
 
 ## Tools used
 
